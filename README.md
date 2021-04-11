@@ -4,7 +4,6 @@
 
 <img src="assets/banana_agent.gif" width="60%" align="top-left" alt="" title="Banana Agent" />
 
-##### &nbsp;
 
 ## Goal
 In this project, **the goal is to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas**
@@ -13,7 +12,6 @@ To accomplish this, I build a reinforcement learning (RL) agent that navigates a
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. In order to solve the environment, our agent must achieve an average score of +13 over 100 consecutive episodes.
 
-##### &nbsp;
 
 # Deep Reinforcement Learning : Navigation
 
@@ -78,14 +76,7 @@ Note :
 - Manually playing with the environment has not been implemented as it is not available with Udacity Online Worspace (No Virtual Screen)    
 - Watching the trained agent playing in the environment has not been implemented neither, as it is not available with Udacity Online Worspace (No Virtual Screen) and not compatible with my personal setup (see Misc : Configuration used  section)
 
-##### &nbsp;
 
 ## Future Improvements
 - **Test the replay buffer** &mdash; Implement a way to enable/disable the replay buffer. As mentioned before, all agents utilized the replay buffer. Therefore, the test results don't measure the impact the replay buffer has on performance.
 - **Replace conventional exploration heuristics with Noisy DQN** &mdash; This approach is explained [here](https://arxiv.org/abs/1706.10295) in this research paper. The key takeaway is that parametric noise is added to the weights to induce stochasticity to the agent's policy, yielding more efficient exploration.
-
-##### &nbsp;
-##### &nbsp;
-
----
-
