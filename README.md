@@ -68,7 +68,7 @@ The task is episodic, and **in order to solve the environment, the agent must ge
 
 
     
-### Train a agent
+### Train an agent
     
 Execute the provided notebook within this Nanodegree Udacity Online Workspace for "project #1  Navigation" (or build your own local environment and make necessary adjustements for the path to the UnityEnvironment in the code )
 
