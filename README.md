@@ -8,7 +8,7 @@
 ## Goal
 In this project, **the goal is to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas.**
 
-To accomplish this, I build a reinforcement learning (RL) agent that navigates an environment that is similar to [Unity's Banana Collector environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector).
+To accomplish this, reinforcement learning (RL) agent was built that navigates an environment that is similar to [Unity's Banana Collector environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector).
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. In order to solve the environment, our agent must achieve an average score of +13 over 100 consecutive episodes.
 
@@ -68,6 +68,6 @@ The task is episodic, and **in order to solve the environment, the agent must ge
 
 
     
-### Train an agent
+### Training an agent
 
 Execute the Jupyter Notebook titled, 'Navigation.ipynb' within this Nanodegree Udacity Online Workspace for "Project #1  Navigation" (or build your own local environment and make necessary adjustements for the path to the UnityEnvironment in the code)
