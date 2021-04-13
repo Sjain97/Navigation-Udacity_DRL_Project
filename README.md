@@ -69,14 +69,5 @@ The task is episodic, and **in order to solve the environment, the agent must ge
 
     
 ### Train an agent
-    
-Execute the provided notebook within this Nanodegree Udacity Online Workspace for "project #1  Navigation" (or build your own local environment and make necessary adjustements for the path to the UnityEnvironment in the code)
 
-Note :
-- Manually playing with the environment has not been implemented as it is not available with Udacity Online Worspace (No Virtual Screen)    
-- Watching the trained agent playing in the environment has not been implemented neither, as it is not available with Udacity Online Worspace (No Virtual Screen) and not compatible with my personal setup (see Misc : Configuration used  section)
-
-
-## Future Improvements
-- **Test the replay buffer** &mdash; Implement a way to enable/disable the replay buffer. As mentioned before, all agents utilized the replay buffer. Therefore, the test results don't measure the impact the replay buffer has on performance.
-- **Replace conventional exploration heuristics with Noisy DQN** &mdash; This approach is explained [here](https://arxiv.org/abs/1706.10295) in this research paper. The key takeaway is that parametric noise is added to the weights to induce stochasticity to the agent's policy, yielding more efficient exploration.
+Execute the Jupyter Notebook titled, 'Navigation.ipynb' within this Nanodegree Udacity Online Workspace for "Project #1  Navigation" (or build your own local environment and make necessary adjustements for the path to the UnityEnvironment in the code)
