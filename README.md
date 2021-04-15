@@ -64,10 +64,10 @@ The task is episodic, and **in order to solve the environment, the agent must ge
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
 
-- Finally, unzip the environment archive in the 'project's environment' directory and eventually adjust thr path to the UnityEnvironment in the code.
+- Finally, unzip the environment archive in the 'project's environment' directory and eventually adjust the path to the UnityEnvironment in the code.
 
 
     
 ### Training an agent
 
-Execute the Jupyter Notebook titled, 'Navigation.ipynb' within this Nanodegree Udacity Online Workspace for "Project #1  Navigation" (or build your own local environment and make necessary adjustements for the path to the UnityEnvironment in the code)
+**Execute the Jupyter Notebook titled, 'Navigation.ipynb'** within this Nanodegree Udacity Online Workspace for "Project #1  Navigation" (or build your own local environment and make necessary adjustements for the path to the UnityEnvironment in the code)
